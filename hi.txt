@@ -5,3 +5,7 @@ hello there
 Testing the concept
 
 Once upon a time
+
+This is a new line
+
+It was the best of days
